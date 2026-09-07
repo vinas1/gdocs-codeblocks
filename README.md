@@ -1,4 +1,5 @@
 # Google Docs Code Blocks
+<img width="220" height="140" alt="gDocs-CodeBlocks220" src="https://github.com/user-attachments/assets/591954cb-1e55-46b4-9cd6-cba23f127383" />
 
 Add code-block formatting and basic syntax highlighting directly to Google Docs without granting an unknown third-party add-on access to your documents.
 
